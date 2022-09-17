@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Kamau, a student developer @ Gearbox academy!
 - 👀 I’m interested in electrical design and fabrication of PCBs
 - 🌱 I’m currently learning how to design a schematic diagram of an arduino board, so as to develop one from scratch. 
-- I hope to learn more about microcontrollers while working on this project..
+-  🤞 I hope to learn more about microcontrollers while working on this project..
 - 📫 Interact with me on twitter @dimshasaplan 
 
 <!---
